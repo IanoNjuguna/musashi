@@ -4,7 +4,7 @@
 
 - [x] **Task 1:** Set up an Aiken project (`aiken new musashi/core`).
 - [x] **Task 2:** Import `charli3-aiken-lib`.
-- [ ] **Task 3:** Define a `PriceIdentifier` to ensure the contract only listens to official Charli3 feeds (verify Policy ID).
+- [x] **Task 3:** Define a `PriceIdentifier` to ensure the contract only listens to official Charli3 feeds (verify Policy ID).
 * **Guide:** [Aiken Documentation](https://aiken-lang.org/installation) | [Charli3 Integration Repo](https://github.com/Charli3-Official)
 
 ## Phase 2: The Vault Validator (Day 1 Afternoon/Night)
